@@ -1,1 +1,1 @@
-Write a C++ program on Friend Class
+Write a C++ Program on Friend Class
